@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMivutDzQAzd12QGoj3U60U9e9At+uoEsdD/AhzIm75d+bynBSOejSfe1tC+mGx6sRpiZGjhxJDXBMNP6Jcw4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Upqroo\\Desktop\\Practica_23CV_24-MAY-23\\Practica_23CV_24-MAY-23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Upqroo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
